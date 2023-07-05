@@ -1,0 +1,37 @@
+.homeHeader.data-v-7272d638{
+	width: 100%;
+	height: 50px;
+	/* rgb(75, 146, 220) */
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	position: fixed;
+	left: 0;
+	padding-left: 5px;
+    z-index: 1;
+	padding-top: 38px;
+	background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgb(200 232 249 / 36%))
+}
+/* 搜索框样式 */
+.queryInfo.data-v-7272d638{
+	background-color: #ffffff;
+	border-radius: 20px;
+	height: 60rpx;
+	margin-left: -15px;
+	margin-top: 10px;
+	width: 160px;
+	box-shadow:0px 0px 3px #8ed5f9
+}
+.queryHz.data-v-7272d638{
+	margin-left: 10px;
+	margin-top: 13px;
+	font-size: 16px;
+	color: #77abdc;
+}
+.leftLogo.data-v-7272d638{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 5px;
+}
+

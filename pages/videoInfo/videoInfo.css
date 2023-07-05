@@ -1,0 +1,152 @@
+.videoBody{
+	height: 100%;
+	position: relative;
+	background-color: #e4e4e482;
+}
+.videoAll{
+	background-color: #e4e4e482;
+	height: auto;
+}
+.video{
+	 width: 100%;
+	 margin-top: 40px;
+	 pointer-events: none;
+}
+
+
+.videoDetailsCard{
+	display: flex;
+	flex-direction: row;
+	height: 182px;
+	background-color: white;
+	border: solid;
+	border-width: 1px;
+	border-color: #ffffff;
+	padding-top: 5px;
+	width: 96%;
+	margin-left: 2%;
+	border-radius: 10px;
+	box-shadow: 0px 0px 9px #d5d5d5;
+	margin-top: 5px;
+}
+.playButton{
+   width: 96%;
+   margin-left: 4%;
+    border-radius: 0px;
+    font-size: 13px;
+    background-color: #2bb5d0;
+    color: white;
+    height: 30px;
+    position: absolute;
+    bottom: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+/* 视频详情右侧样式 */
+.videoCardRight{
+	margin-left: 8px;
+	position: relative;
+}
+/* 视频封面按钮样式 */
+.imagePlayButton{
+    position: absolute;
+    top: 52px;
+    left: 35px;
+    border-radius: 22px;
+    background-color: #12121242;
+    color: #ffffff;
+    border-color: #353535;
+    border-width: 1px;
+}
+/* 视频简介样式 */
+.videoContent{
+	margin-left: 6px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+/* 电视剧选集样式 */
+.dianShiJu{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:solid;
+	border-width: 1px;
+	border-color: white;
+	width: 96%;
+	margin-left: 2%;
+	border-radius: 6px;
+	box-shadow: 0px 0px 10px #d5d5d5;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	
+}
+/* 视频评论底部样式 */
+.videoTalkeBottom{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: white;
+	height: 80rpx;
+	border-top-color: #0000003d;
+	border-top-style: solid;
+	border-top-width: 1px;
+	display: flex;
+	flex-direction: row;
+}
+/* 评论输入框样式 */
+.talkeInput{
+	width: 130px;
+	background-color:#ebedf0;
+	border-radius: 15px;
+	margin-left: 20%;
+	margin-top: 1%;
+	height: 30px;
+}
+/* 评论区图标样式 */
+.talkeBottomIcon{
+	font-size: 20px;
+	margin-top: 3px;
+	margin-left: 10%;
+	position: relative;
+}
+.xiaoxiIcon{
+	position: absolute;
+	font-size: 10px;
+	width: 36px;
+	height: -32px;
+	border-radius: 10px;
+	background-color: red;
+	color: white;
+	font-family: cursive;
+	margin-left: -10px;
+}
+.talkeButton{
+	width: 130px;
+	border-radius: 20px;
+	font-size: 15px;
+	border: solid;
+	border-width: 1px;
+	margin-top: 20px;
+	padding-top: -59px;
+	background-color: white;
+}
+.videoContent{
+	width: 96%;
+	margin-left: 2%;
+	border-radius: 6px;
+	box-shadow: 0px 0px 10px #d5d5d5;
+	margin-top: 15px;
+	padding-bottom: 20px;
+	border:solid;
+	border-width: 1px;
+	border-color: white;
+	background-color: white;
+}
+.asideLine{
+	border-right:5px solid rgb(45 172 196);
+	height: 100%;
+	margin-left: 10px;
+}

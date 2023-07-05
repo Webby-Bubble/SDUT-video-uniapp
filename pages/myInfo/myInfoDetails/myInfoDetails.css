@@ -1,0 +1,64 @@
+.myInfoBackImage{
+	height: 200px;
+	background-color: #dfeef4;
+	
+}
+.myInfoContentClass{
+	height: 100vh;
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px;
+	background-color: white;
+	margin-top: -15px;
+	z-index: 999;
+}
+.zhaoxianghjiOut{
+	width: 80px;
+	height: 80px;
+	border-radius: 50px;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 5px solid white;
+}
+.zhaoji{
+	color: white;
+	font-size: 30px;
+}
+.avataOut{
+	display: flex;
+	justify-content: center;
+}
+.zhaoxiangjiOut{
+	margin-top: -25px;
+}
+.backClass{
+	display: flex;
+	align-items: center;
+	position: fixed;
+	background-color: #44444436;
+	padding: 5px 8px 5px 2px;
+	border-radius: 200px;
+	top: 30px;
+	left: 10px;
+	color: white;
+}
+.myInfoContent{
+	width: 96%;
+	margin-left: 2%;
+}
+.u-form-item{
+	margin-top: 10px;
+}
+.updateMyInfoButton{
+	width: 90%;
+	margin-left: 5%;
+	margin-bottom: 40px;
+}
+.updateButton{
+	background-color: rgb(81, 183, 202);
+	border-radius: 30px;
+	margin-top: 100px;
+	color: white;
+	font-size: 14px;
+}

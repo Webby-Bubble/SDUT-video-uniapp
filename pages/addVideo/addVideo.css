@@ -1,0 +1,77 @@
+#uploadIcon{
+	color: #47b0c55e;
+	padding-top: 10%;
+	font-size: 100px;
+	margin-left: 38%;
+}
+.uploadWZ{
+	color: #c3c2c2;
+	text-align: center;
+}
+.addVideoAll{
+	height: 100%;
+	position: relative;
+}
+/deep/.textArea{
+	width: 85%;
+	left: 5%;
+	height: 110px;
+	border-radius: 10px;
+	color: white;
+	background-color: transparent;
+	margin-top: 20%;
+}
+#deleteIcon{
+	color: #dfcccc;
+	
+}
+.deleteAndEdit{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 10px;
+	
+}
+.videoCoverOut{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+.xiangjiOut{
+	width: 60px;
+	height: 60px;
+	background-color: #e7e7e7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10px;
+	border-radius: 3px;
+}
+.xiangji{
+	color: rgb(21 147 171);
+}
+.coverOut{
+	display: flex;
+	align-items: center;
+	
+}
+.coverImage{
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
+.ButtonOut{
+	display: flex;
+	align-items: center;
+	padding:8px;
+	background-color: rgb(71, 176, 197);
+	border-radius: 6px;
+	color: white;
+	font-size: 13px;
+}
+.hz{
+	font-size: 13px;
+	margin-left: 2px;
+}

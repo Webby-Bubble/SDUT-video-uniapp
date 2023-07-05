@@ -1,0 +1,104 @@
+.queryIndex{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	padding-top: 40px;
+}
+.queryInputClass{
+	width: 65%;
+}
+.icon-houtui{
+	font-size: 18px;
+	font-weight: 500;
+}
+.queryHistory{
+	display: flex;
+	justify-content: space-between;
+	width: 96%;
+	margin-left: 2%;
+	padding-top: 20px;
+}
+.queryHz{
+	margin-left: 10px;
+	font-weight: 600;
+	color: #505050;
+	font-size: 19px;
+}
+.icon-shanchu2{
+	margin-right: 10px;
+	color: #595959;
+	font-size: 18px;
+}
+.rowClass{
+	display: flex;
+	flex-wrap: wrap;
+}
+.historyClass{
+	margin-left: 18px;
+	margin-top: 20px;
+}
+.colClass{
+	margin-bottom: 10px;
+}
+.historyHz{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.icon-cuowu{
+	margin-right: 22px;
+	font-size: 10px;
+}
+.cleanHz{
+	display: flex;
+	align-items: center;
+}
+.xiantiao{
+	font-size: 13px;
+	margin-bottom: 3px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.complate{
+	margin-right: 8px;
+}
+.openClass{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+}
+.queryTuijian{
+	display: flex;
+	justify-content: space-between;
+	width: 96%;
+	margin-left: 2%;
+	padding-top: 20px;
+}
+.changeNext{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.icon-shuaxin{
+	margin-right: 10px;
+	color: rgb(78, 197, 174);
+}
+.changeOther{
+	margin-right: 10px;
+}
+.hotAndNew{
+	position: relative;
+}
+.hotAndNewClass{
+     position: absolute;
+     top: -4px;
+     left: 55px;
+     font-size: 12px;
+     background-color: #ef3483;
+     border-radius: 5px;
+     width: 15px;
+     color: white;
+     padding-left: 3px;
+}

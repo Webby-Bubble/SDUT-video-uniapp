@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "易影查询页",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "home-header": "/componets/homeHeader/homeHeader"
+  }
+}

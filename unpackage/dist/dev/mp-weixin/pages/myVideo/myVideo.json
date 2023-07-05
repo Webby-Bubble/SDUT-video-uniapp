@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的作品",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "back-menu": "/componets/backMenu/backMenu"
+  }
+}

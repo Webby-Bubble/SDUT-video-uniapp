@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "易途电影网",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "cards": "/componets/refrash/refrash",
+    "home-header": "/componets/homeHeader/homeHeader"
+  }
+}

@@ -1,0 +1,38 @@
+.myVideoCover{
+	height: 150px;
+	width: 100%;
+	border-radius: 5px;
+}
+.myVideoContentOut{
+	padding-top: 100px;
+	width: 96%;
+	margin-left: 2%;
+}
+.myVideo{
+	height: 100vh;
+	background-color: #fafffd;
+}
+.bofangCount{
+	position: absolute;
+	bottom: 10px;
+	display: flex;
+	align-items: center;
+	color: white;
+	font-size: 12px;
+	left: 10px;
+}
+.zhezhao{
+	position: absolute;
+	height: 150px;
+	width: 100%;
+	background-color: #040404b5;
+	z-index: 999;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.statusHz{
+	color: white;
+	font-size: 13px;
+}

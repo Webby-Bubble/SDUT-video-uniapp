@@ -1,0 +1,65 @@
+{
+  "pages": [
+    "pages/index/welcome",
+    "pages/login/login",
+    "pages/myInfo/weiXinLogin",
+    "componets/refrash/refrash",
+    "pages/myShouCang/myShouCang",
+    "pages/myVideo/myVideo",
+    "pages/addVideo/addVideo",
+    "pages/myInfo/myInfo",
+    "pages/videoInfo/videoPlay/videoPlay",
+    "pages/videoInfo/vidoeInfo",
+    "pages/uploadImage/uploadImage",
+    "pages/shortVideo/shortVideo",
+    "pages/myInfo/regist",
+    "pages/myInfo/userLogin",
+    "pages/myInfo/guanZhuAndFenSi",
+    "pages/queryVideos/queryVideos",
+    "pages/videoTypeDetails/videoTypeDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#515151",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/login/login",
+        "text": "首页",
+        "iconPath": "static/img/shouyeWXZ.png",
+        "selectedIconPath": "static/img/shouyeXZ.png"
+      },
+      {
+        "pagePath": "pages/shortVideo/shortVideo",
+        "text": "微视",
+        "iconPath": "static/img/duanshipin.png",
+        "selectedIconPath": "static/img/dspxz.png"
+      },
+      {
+        "pagePath": "pages/addVideo/addVideo",
+        "text": "发布",
+        "iconPath": "static/img/fabuwxz.png",
+        "selectedIconPath": "static/img/fabuxz.png"
+      },
+      {
+        "pagePath": "pages/myInfo/myInfo",
+        "text": "我的",
+        "iconPath": "./static/img/wodewxz1.png",
+        "selectedIconPath": "static/img/wodexz1.png"
+      }
+    ],
+    "midButton": {
+      "iconPath": "static/img/etoakLogin.png",
+      "iconWidth": "35px",
+      "height": "45px"
+    }
+  },
+  "usingComponents": {}
+}

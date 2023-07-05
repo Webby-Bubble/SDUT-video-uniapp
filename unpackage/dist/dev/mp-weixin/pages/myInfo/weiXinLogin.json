@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "微信登录",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal"
+  }
+}

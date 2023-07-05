@@ -1,0 +1,57 @@
+.queryHeaderClass{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	width: 100%;
+	background-color: white;
+	padding-bottom: 10px;
+}
+.queryIndex{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	padding-top: 40px;
+}
+.queryInputClass{
+	width: 65%;
+}
+.searchListOut{
+	margin-top: 100px;
+	width: 90%;
+	margin-left: 5%;
+}
+.avatarAndName{
+	display: flex;
+	align-items: center;
+}
+.searchAvatar{
+	margin-right: 10px;
+}
+.avatarname{
+	font-size: 15px;
+	font-weight: 600;
+}
+.titleContent{
+	margin-top: 10px;
+}
+.videoPlayClass{
+	position: relative;
+	width: 100%;
+	border-radius: 8px;
+	margin-top: 10px;
+}
+.iconFlexClass{
+	display: flex;
+	align-items: center;
+	margin-right: 20px;
+	
+}
+.coverVideo{
+	top: 0;
+	height: 100px;
+	width: 100%;
+	background-color: #00ffff00;
+	position: absolute;
+}

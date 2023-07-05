@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-swipe-action": "/node-modules/uview-ui/components/u-swipe-action/u-swipe-action",
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line",
+    "u-swipe-action-item": "/node-modules/uview-ui/components/u-swipe-action-item/u-swipe-action-item",
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "back-menu": "/componets/backMenu/backMenu"
+  }
+}

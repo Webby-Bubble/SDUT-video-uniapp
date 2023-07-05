@@ -1,0 +1,38 @@
+.queryHeaderClass{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	width: 100%;
+	background-color: white;
+}
+.queryIndex{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	padding-top: 40px;
+}
+.queryInputClass{
+	width: 65%;
+}
+.historyRow{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+.iconAndTitle{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.searchHistoryOut{
+	margin-top: 100px;
+	width: 90%;
+	margin-left: 5%;
+}
+.tishi{
+	text-align: center;
+	margin-top: 30px;
+	
+}

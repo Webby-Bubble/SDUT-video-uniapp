@@ -1,0 +1,54 @@
+.reportOutClass{
+	padding-top: 110px;
+}
+/* /deep/.u-tabs__wrapper__nav__item[data-v-0de61367]{
+	padding: 0 76px;
+} */
+.reportCardOut{
+	margin-top: 20px;
+	width: 96%;
+	margin-left: 2%;
+}
+.reportCardContent{
+	border: 1px solid #ebebeb;
+    border-radius: 8px;
+    box-shadow: 0px 0px 2px #c8c8c8;
+	margin-bottom: 20px;
+}
+.reportHeaderClass{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+}
+.reportHeaderIcon{
+	display: flex;
+	align-items: center;
+}
+.reportContentLeftAndRight{
+	display: flex;
+	align-items: center;
+	margin: 10px;
+}
+.reportContentRight{
+	margin-left: 20px;
+}
+.reportTitle{
+	font-weight: 600;
+}
+.reportrsAndTime{
+	font-size: 13px;
+	margin-top: 5px;
+	color: gray;
+}
+.shenheClass{
+	display: flex;
+	align-items: center;
+	background-color: #f0f0f0;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 5px;
+}
+.leftIconAndTitle{
+	display: flex;
+	align-items: center;
+}

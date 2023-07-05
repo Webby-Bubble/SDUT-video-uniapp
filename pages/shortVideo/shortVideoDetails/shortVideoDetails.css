@@ -1,0 +1,41 @@
+.shortVideoDetails{
+	height: 100vh;
+	background-color: black;
+	position: relative;
+}
+.userAvarta{
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+}
+.optionClass{
+	z-index: 9999;
+	position: absolute;
+	top: 38vh;
+	right: 10px;
+}
+.avatarOut{
+	 border: 2px solid white;
+	 border-radius: 50px;
+	 height: 50px;
+}
+.optionOneOut{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 30px;
+}
+.shortVideoTitleAndUserName{
+	position: absolute;
+	bottom: 22vh;
+	left: 15px;
+}
+.backClass1{
+	color: white;
+	position: fixed;
+	top: 40px;
+	left: 5px;
+	display: flex;
+	align-items: center;
+	
+}

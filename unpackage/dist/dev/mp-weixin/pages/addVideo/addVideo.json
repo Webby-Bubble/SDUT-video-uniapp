@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "上传短视频",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea",
+    "back-menu": "/componets/backMenu/backMenu"
+  }
+}

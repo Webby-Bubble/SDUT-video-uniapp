@@ -1,0 +1,12 @@
+.picBottom{
+	text-align: center;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	width: 92%;
+	background-color: #0000007d;
+	font-family: monospace;
+	font-size: 14px;
+	height: 17px;
+}
+

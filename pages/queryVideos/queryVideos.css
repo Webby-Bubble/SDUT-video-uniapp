@@ -1,0 +1,56 @@
+.queryHeaderClass{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	width: 100%;
+	background-color: white;
+}
+.bottomBackHomeView{
+	position: fixed;
+	bottom: 0px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+.liebiaoContent{
+	height: 90%;
+	position: absolute;
+	top: 155px;
+	left: 10px;
+	width: 100%;
+}
+.buttonText{
+	font-size: 10px;
+}
+.fenyeButton{
+	height: 28px;
+}
+.imageBottomHZ{
+	position: absolute;
+	bottom: 0px;
+	height: 25px;
+	width: 80%;
+	text-align: right;
+	background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,0.8));
+}
+.queryIndex{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	padding-top: 40px;
+}
+.queryInputClass{
+	width: 65%;
+}
+.icon-houtui{
+	font-size: 18px;
+	font-weight: 500;
+}
+.icon-lab-kuqi{
+	font-size: 110px;
+	color: #1593ab9e;
+	text-align: center;
+	margin-left: -35px;
+}

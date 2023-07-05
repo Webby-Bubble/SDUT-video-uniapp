@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "照片上传",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-overlay": "/node-modules/uview-ui/components/u-overlay/u-overlay"
+  }
+}

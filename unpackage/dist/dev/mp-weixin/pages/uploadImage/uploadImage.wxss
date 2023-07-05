@@ -1,0 +1,29 @@
+.uploadImageAll.data-v-069c8c3c{
+	background-color: #000000;
+	height: 100%;
+}
+/* 头像背景 */
+.touXiangBJ.data-v-069c8c3c{
+	height: 245px;
+	width: 100%;
+	margin-top: 50%;
+	background-color: #848a93;
+}
+.updateTouxiangButton.data-v-069c8c3c{
+	position: absolute;
+	bottom: 3%;
+	left: 30%;
+	background-color: #3e3d3d;
+	color: white;
+	height: 24px;
+	width: 150px;
+	text-align: center;
+	font-size: 17px;
+}
+.data-v-069c8c3c .u-upload__button{
+	background-color: #404143;
+	position: absolute;
+	bottom: 10px;
+	left: 25%;
+}
+
